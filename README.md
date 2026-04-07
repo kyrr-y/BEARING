@@ -1,7 +1,7 @@
 ST-GABG：A Spatio-Temporal Joint Diagnosis Framework for Bearing Faults via Graph Convolution and Attention-Enhanced Bidi-rectional Gated Networks
 
 #insatll
-pip install requirement.txt
+pip install -r requirement.txt
 
 #operation
 Creation of graph structure dataset().ipynb
